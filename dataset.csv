@@ -1,0 +1,351 @@
+Disease Name,Remedy Name,Ingredients,Preparation Method,Side Effects,Suitable Age Group,Allergies,Dietary Preferences,Disease Name
+Common Cold,Tulsi Ginger Tea,"Tulsi leaves, Ginger, Black pepper, Honey",Boil tulsi leaves and ginger in water for 10 minutes. Add black pepper and honey.,May cause mild acidity if taken on empty stomach,5+ years,None,Vegetarian,Common Cold
+Common Cold,Honey Lemon Drink,"Honey, Lemon, Warm water",Mix honey and lemon juice in warm water and drink twice daily.,Not suitable for diabetics,1+ years,Honey allergy,Vegetarain,Influenza (Flu)
+Common Cold,Steam Inhalation with Eucalyptus,"Eucalyptus oil, Hot water",Add eucalyptus oil to hot water and inhale the steam for 10 minutes.,May cause mild eye irritation,10+ years,Eucalyptus sensitivity,Vegan,Pneumonia
+Common Cold,Turmeric Milk,"Turmeric, Milk, Black pepper",Boil milk with turmeric and a pinch of black pepper. Drink warm.,Can cause bloating in lactose intolerant individuals,5+ years,Lactose intolerance,Vegetarian,Gastroenteritis
+Common Cold,Clove and Honey Mix,"Cloves, Honey",Crush cloves and mix with honey. Consume twice a day.,Not recommended for small children,12+ years,"Honey, clove allergy",Vegetarian,Irritable Bowel Syndrome (IBS)
+Influenza (Flu),Giloy Kadha,"Giloy stem, Tulsi, Black pepper",Boil all ingredients in water to make a decoction. Drink once daily.,Can cause constipation,10+ years,None,Vegan,Diabetes Mellitus
+Influenza (Flu),Cinnamon Tea,"Cinnamon stick, Honey, Water",Boil cinnamon in water. Add honey before drinking.,Avoid in case of bleeding disorders,1+ years,Cinnamon allergy,Vegetarian,UTI
+Influenza (Flu),Turmeric and Ginger Decoction,"Turmeric, Ginger, Water",Boil turmeric and ginger in water. Drink warm twice a day.,Mild heartburn in some cases,6+ years,None,Vegan,Hypertension
+Influenza (Flu),Black Pepper Soup,"Black pepper, Cumin, Garlic, Water",Boil all ingredients and strain. Drink hot.,Can cause sweating,12+ years,None,Vegan,Migraine
+Influenza (Flu),Tulsi Honey Mix,"Tulsi leaves, Honey",Crush tulsi leaves and mix with honey. Consume once daily.,Not for diabetics,5+ years,Tulsi allergy,Vegetarian,Hypothyroidism
+Pneumonia,Garlic Milk,"Garlic cloves, Milk, Water",Boil crushed garlic in a mix of water and milk. Drink warm.,Mild digestive discomfort,12+ years,Lactose intolerance,Vegetarian,Hyperthyroidism
+Pneumonia,Fenugreek Tea,"Fenugreek seeds, Honey, Lemon","Boil fenugreek seeds in water, strain, add lemon and honey.",Not suitable for pregnant women,18+ years,Fenugreek allergy,Vegetarian,Anemia
+Pneumonia,Turmeric Paste,"Turmeric, Warm water, Black pepper",Make a paste of turmeric with warm water and black pepper. Consume twice daily.,Can cause heartburn,1+ years,None,Vegan,Heart Failure
+Pneumonia,Holy Basil Steam,"Holy basil leaves, Water",Boil holy basil leaves and inhale the steam.,May cause nasal irritation,10+ years,Basil allergy,Vegan,Asthma
+Pneumonia,Licorice Root Tea,"Licorice root, Water",Boil licorice root in water and drink once daily.,Avoid in high blood pressure,18+ years,Licorice allergy,Vegan,Allergic Rhinitis
+Gastroenteritis,Mint-Coriander Drink,"Mint leaves, Coriander leaves, Rock salt","Blend mint and coriander with water, add rock salt. Drink fresh.",None known,5+ years,None,Vegan,Sinusitis
+Gastroenteritis,Pomegranate Peel Decoction,"Pomegranate peel, Water","Boil pomegranate peel in water, strain and drink.",Mild constipation in excess, 1+ years,None,Vegan,Appendicitis
+Gastroenteritis,Buttermilk with Ginger,"Buttermilk, Ginger, Cumin",Mix ginger and cumin powder in buttermilk. Drink twice daily.,Avoid in lactose intolerance,1+ years,Lactose intolerance,Vegetarian,Peptic Ulcer
+Gastroenteritis,Bael Fruit Pulp,"Bael fruit pulp, Warm water",Mix bael pulp in warm water and drink once daily.,Can cause constipation if overused,10+ years,None,Vegan,Tuberculosis
+Gastroenteritis,Ginger-Honey Mix,"Ginger juice, Honey",Mix fresh ginger juice with honey and consume 2-3 times a day.,Avoid for diabetics,1+ years,Honey allergy,Vegetarian,Liver Disease (Hepatitis)
+Irritable Bowel Syndrome (IBS),Psyllium Husk Drink,"Psyllium husk, Warm water",Mix psyllium husk in warm water and drink before bedtime.,Bloating if overused,18+ years,None,Vegan,Kidney Disease
+Irritable Bowel Syndrome (IBS),Asafoetida Water,"Asafoetida, Warm water",Mix a pinch of asafoetida in warm water. Drink twice daily.,Can cause mild burping,1+ years,Asafoetida allergy,Vegan,Depression
+Irritable Bowel Syndrome (IBS),Ginger-Lemon Tea,"Ginger, Lemon, Honey","Boil ginger slices, strain, add lemon and honey.",Avoid for GERD patients,2+ years,Honey allergy,Vegetarian,Anxiety Disorders
+Irritable Bowel Syndrome (IBS),Fennel Seed Infusion,"Fennel seeds, Water","Soak fennel seeds overnight, boil in morning and drink warm.",None known,12+ years,None,Vegetarian,Eczema/Dermatitis
+Irritable Bowel Syndrome (IBS),Aloe Vera Juice,"Aloe vera gel, Water",Mix aloe vera gel with water. Consume once a day before meals.,Can cause diarrhea in high doses,18+ years,Aloe vera allergy,Vegetarian,Lupus
+Diabetes Mellitus,Bitter Gourd Juice,"Bitter gourd, Water",Blend bitter gourd with water. Strain and drink on empty stomach.,Can cause hypoglycemia,2+ years,None,Vegetarian,Rheumatoid Arthritis
+Diabetes Mellitus,Fenugreek Water,"Fenugreek seeds, Water","Soak fenugreek seeds overnight, drink water in morning.",May cause gas,12+ years,Fenugreek allergy,Vegetarian,Chikungunya
+Diabetes Mellitus,Cinnamon Tea,"Cinnamon, Water",Boil cinnamon stick in water and drink warm.,Avoid in liver issues,12+ years ,Cinnamon allergy,Vegetarian,Dengue
+Diabetes Mellitus,Amla Juice,"Amla (Indian gooseberry), Water",Blend fresh amla with water and drink fresh.,Can upset stomach if taken in excess,6+ years,None,Vegetarian,Malaria
+Diabetes Mellitus,Jamun Seed Powder,"Jamun seed powder, Water",Mix powder with water and drink once daily.,Mild nausea in some cases,18+ years,None,Vegetarian,Sleep Apnea
+UTI,Coriander Seed Water,"Coriander seeds, water","Soak overnight, strain and drink",Slight BP lowering,10+ years,Seed allergy,Vegan,Sarcoidosis
+UTI,Barley Water,"Barley, water, lemon","Boil barley, strain, add lemon if needed",Bloating in some,5+ years,Gluten,Vegan,Carcinoid Syndrome
+UTI,Punarnava Decoction,"Punarnava root, water",Boil root in water and drink,May cause dehydration,12+ years,Root allergy,Vegan,Fibromyalgia
+UTI,Coconut Water,Coconut water,Drink twice daily,None known,1+ years,Coconut,Vegan,Guillain-Barré Syndrome
+UTI,Amla Juice,"Amla, water, honey","Blend amla, strain, add honey",May cause acidity,10+ years,Citrus,Vegetarian,Multiple Sclerosis
+Hypertension,Ashwagandha Tea,"Ashwagandha root, water",Boil root in water and drink,May induce drowsiness,18+ years,Nightshade family,Vegan,Hashimoto's Thyroiditis
+Hypertension,Garlic Honey Mix,"Raw garlic, honey",Crush garlic and mix with honey,"Bad breath, odor",15+ years,Garlic,Vegetarian,Chronic Fatigue Syndrome
+Hypertension,Triphala Water,"Triphala powder, warm water",Mix in water and drink on empty stomach,Can cause diarrhea in excess,18+ years,Herbal blend,Vegan,Lyme Disease
+Hypertension,Fenugreek Seeds,"Fenugreek seeds, water","Soak overnight, chew or drink the water",Hypoglycemia risk,18+ years,Fenugreek,Vegan,Rocky Mountain Spotted Fever
+Hypertension,Beetroot Juice,"Beetroot, water",Blend and strain for juice,Urine discoloration,10+ years,Oxalates,Vegan,Chronic Hepatitis
+Migraine,Peppermint Oil Massage,Peppermint oil,Massage peppermint oil onto temples and forehead,Skin irritation if undiluted,15+ years,Peppermint,Vegetarain,Cytomegalovirus Infection
+Migraine,Ginger Tea,"Ginger root, water, honey","Boil ginger in water, strain and add honey",Heartburn in some cases,10+ years,"Ginger, honey",Vegetarian,HIV/AIDS
+Migraine,Coriander Seed Infusion,"Coriander seeds, water",Boil seeds in water and strain,May lower blood sugar,12+ years,Coriander,Vegan,Mononucleosis
+Migraine,Brahmi Juice,"Brahmi leaves, water","Crush leaves, extract juice and consume",May cause nausea if overused,18+ years,Leafy plants,Vegan,Chronic Kidney Disease
+Migraine,Camphor Inhalation,"Camphor, hot water",Add camphor to hot water and inhale steam,Overuse may cause dizziness,15+ years,Camphor,Vegetarain,Systemic Lupus Erythematosus (Lupus)
+Hypothyroidism,Ashwagandha Powder,"Ashwagandha root powder, warm water",Mix powder in water and consume on empty stomach,Can cause drowsiness,18+ years,Nightshade allergy,Vegan,Vasculitis
+Hypothyroidism,Guggulu Decoction,"Guggulu resin, water","Boil in water, strain and consume",Can cause stomach upset in some,18+ years,Resin allergy,Vegan,Myasthenia Gravis
+Hypothyroidism,Coconut Oil Consumption,Virgin coconut oil,Take 1 tsp daily with warm water,May cause diarrhea if overused,10+ years,Coconut,Vegan,Pernicious Anemia
+Hypothyroidism,Iodine-Rich Seaweed Mix,"Dry seaweed (kelp), warm water",Soak and blend seaweed into smoothie,Excess iodine may affect thyroid,15+ years,"Seafood, iodine",Vegan,Sjogren’s Syndrome
+Hypothyroidism,Triphala Churna,"Triphala powder, warm water",Take at bedtime with warm water,Loose motion if taken in excess,15+ years,Herbal blends,Vegan,Psoriasis
+Hyperthyroidism,Bugleweed Tea,"Bugleweed leaves, water","Boil leaves in water, strain and drink twice daily",Avoid in low thyroid patients,18+ years,Mint family,Vegan,PCOS
+Hyperthyroidism,Lemon Balm Infusion,"Lemon balm leaves, hot water",Steep leaves in hot water and consume daily,May cause drowsiness,12+ years,Mint family,Vegan,Psoriatic Arthritis
+Hyperthyroidism,Motherwort Tonic,"Motherwort herb, water, honey","Boil herb in water, strain and sweeten with honey",Can cause uterine contractions,18+ years,None reported,Vegetarian,GERD
+Hyperthyroidism,Brahmi Tea,"Brahmi leaves, water",Boil leaves and strain into tea,May cause fatigue,15+ years,Leafy plants,Vegan,Sciatica
+Hyperthyroidism,Amla and Honey Mix,"Amla powder, honey",Mix 1 tsp Amla powder with honey and take daily,None significant in moderation,10+ years,"Amla, honey",Vegetarian,Gout
+Anemia,Beetroot-Carrot Juice,"Beetroot, carrot, lemon juice","Juice veggies, mix with lemon and drink fresh",May cause red urine,10+ years,Root vegetables,Vegan,Hepatitis B
+Anemia,Sesame Seed Paste,"Black sesame seeds, water, jaggery","Soak seeds, grind to paste, mix with jaggery",May cause body heat,15+ years,Sesame,Vegan,Shingles
+Anemia,Spinach Soup,"Spinach, garlic, spices",Cook all ingredients and blend into soup,None significant,8+ years,Leafy greens,Vegan,Bronchitis
+Anemia,Dates in Milk,"Dates, warm milk",Soak dates overnight and consume with milk,Can cause constipation in excess,5+ years,"Milk, dates",Vegetarian,Insomnia
+Anemia,Pomegranate Juice,Pomegranate seeds,Juice the seeds and consume fresh,Can interfere with BP meds,1+ years,Pomegranate,Vegan,Rheumatic Fever
+Heart Failure,Arjuna Decoction,"Arjuna bark, water",Boil 1 tbsp of Arjuna bark in 2 cups of water till reduced to half. Strain and drink.,May cause constipation in some,25+ years,Bark allergy,Vegetarian,Chronic Obstructive Pulmonary Disease (COPD)
+Heart Failure,Garlic Milk,"Garlic cloves, milk",Boil 3-4 crushed garlic cloves in milk. Consume warm.,May cause gastric irritation,12+ years,Lactose intolerance,Vegetarian,Peptic Stricture
+Heart Failure,Ashwagandha Tea,"Ashwagandha root, water",Boil 1 tsp root in water for 10 mins. Strain and drink.,Drowsiness,18+ years,None,Vegetarian,Bell’s Palsy
+Heart Failure,Hawthorn Blend,"Hawthorn berries, honey, water",Boil berries in water. Add honey and drink twice a day.,Rare headaches,15+ years,Berry allergy,Vegetarian,Tinnitus
+Heart Failure,Triphala Powder Mix,"Triphala, warm water",Take 1 tsp of powder with warm water at night.,Mild laxative effect,18+ years,None,Vegetarian,Meniere’s Disease
+Asthma,Tulsi-Honey Mix,"Tulsi leaves, honey",Crush Tulsi leaves and mix with honey. Consume 2x/day.,None usually,5+ years,Pollen allergy,Vegetarian,Multiple Myeloma
+Asthma,Licorice Tea,"Licorice root, water","Boil 1 tsp root in water, strain, sip warm.",High BP if overused,18+ years,Hypertension,Vegan,Celiac Disease
+Asthma,Pippali-Ginger Paste,"Pippali, dry ginger, honey",Mix powders with honey. Take 1/2 tsp daily.,None known,18+ years,Spice allergy,Vegetarian,Sickle Cell Disease
+Asthma,Vasa Leaf Juice,Vasa leaves,"Extract juice, take 2 tsp daily on empty stomach.",Slight nausea,12+ years ,Leaf sensitivity,Vegan,Alzheimer’s Disease
+Asthma,Aniseed Steam,"Aniseed, hot water",Inhale steam from boiling aniseed in water.,Nasal dryness,5+ years ,None,Vegetarian,
+Allergic Rhinitis,Neem Nasal Drops,Neem oil,"Warm slightly, apply 2 drops per nostril daily.",Mild burning,18+ years,Tree nut allergy,Vegetarian,
+Allergic Rhinitis,Turmeric Milk,"Turmeric, milk","Boil turmeric in milk, drink at bedtime.",May upset stomach,5+ years,Lactose intolerance,Vegetarian,
+Allergic Rhinitis,Honey-Ginger Mix,"Raw honey, ginger juice","Mix 1 tsp each, consume 2x/day.",Possible allergic reaction,5+ years,Honey allergy,Vegetarian,
+Allergic Rhinitis,Trikatu Churna,"Trikatu powder, ghee","Mix with warm ghee, consume 1 tsp daily.",Heat sensation,18+ years,Spice allergy,Vegetarian,
+Allergic Rhinitis,Tulsi Steam Inhalation,"Tulsi leaves, water","Boil leaves, inhale steam for 10 mins.",None usually,5+ years,Pollen allergy,Vegetarian,
+Sinusitis,Eucalyptus Oil Steam,"Eucalyptus oil, hot water","Add oil to hot water, inhale steam.",Eye irritation,12+ years,Oil sensitivity,Vegetarian,
+Sinusitis,Black Pepper-Ghee Paste,"Black pepper, ghee","Warm mix, apply on forehead.",Skin irritation,18+ years,Spice sensitivity,Vegetarian,
+Sinusitis,Ginger Compress,"Ginger root, cloth","Make paste, apply as warm compress.",Redness,5+ years,Ginger allergy,Vegetarian,
+Sinusitis,Triphala Nasya,Triphala decoction,Use as nasal drops twice daily.,Nasal dryness,18+ years,None,Vegetarian,
+Sinusitis,Ajwain Fumes,Carom seeds,Roast and inhale smoke gently.,Throat irritation,5+ years,Smoke-sensitive,Vegetarian,
+Appendicitis,Castor Oil Pack,"Castor oil, cloth","Soak cloth, place on abdomen, apply heat.",Skin rash,18+ years,Oil sensitivity,Vegetarian,
+Appendicitis,Fenugreek Tea,"Fenugreek seeds, water","Boil seeds, drink 1 cup/day.",Slight bitterness,12+ years,None,Vegan,
+Appendicitis,Turmeric-Ginger Mix,"Turmeric, ginger, honey",Mix and consume 2x/day.,Heat in body,5+ years,Spice allergy,Vegetarian,
+Appendicitis,Garlic Infusion,"Garlic, water","Crush garlic, soak in hot water. Drink lukewarm.",Stomach irritation,12+ years,Garlic allergy,Vegetarian,
+Appendicitis,Aloe Vera Juice,"Aloe vera gel, water",Blend and consume 30ml daily.,Laxative effect,5+ years,Latex allergy,Vegan,
+Peptic Ulcer,Licorice Infusion,"Licorice root, water","Boil licorice in water, strain and sip warm.",May raise BP,18+ years,Hypertension,Vegan,
+Peptic Ulcer,Slippery Elm Drink,"Slippery elm powder, warm water","Mix powder in warm water, drink before meals.",Mild bloating,5+ years,Tree allergies,Vegan,
+Peptic Ulcer,Banana-Milk Smoothie,"Ripe banana, cold milk",Blend and drink once daily.,Lactose intolerance,1+ years,Dairy allergy,Vegetarian,
+Peptic Ulcer,Amla Honey Tonic,"Amla juice, honey","Mix equal parts, take 1 tsp daily.",None usually,12+ years,Honey allergy,Vegetarian,
+Peptic Ulcer,Cabbage Juice,Fresh cabbage,"Extract juice, drink ½ cup daily.",Gas or bloating,5+ years,Cruciferous vegetable allergy,Vegetarian,
+Tuberculosis,Ashwagandha Milk,"Ashwagandha powder, milk",Boil 1 tsp powder in milk. Drink nightly.,Drowsiness,18+ years,Dairy intolerance,Vegetarian,
+Tuberculosis,Pippali-Honey Mix,"Pippali powder, honey",Mix and take ½ tsp daily.,Mild heat in body,12+ years,Spice allergy,Vegetarian,
+Tuberculosis,Haritaki Decoction,"Haritaki, water","Boil in water, strain, drink warm.",Mild laxative effect,18+ years,None,Vegetarian,
+Tuberculosis,Chyawanprash,"Amla, herbs, ghee, honey",1 tsp daily on empty stomach.,None,5+ years,Ghee/honey allergy,Vegetarian,
+Tuberculosis,Garlic Clove Remedy,Raw garlic cloves,Chew 2 cloves daily on empty stomach.,"Strong odor, gastric upset",12+ years,Garlic allergy,Vegetarian,
+Liver Disease (Hepatitis),Bhringraj Juice,Fresh Bhringraj leaves,"Extract juice, 1 tsp daily with honey.",Slight nausea,18+ years,Leaf allergy,Vegetarian,
+Liver Disease (Hepatitis),Amla Juice,Fresh Amla,Drink 30 ml daily.,None,5+ years,None,Vegetarian,
+Liver Disease (Hepatitis),Kutki Decoction,"Kutki root, water","Boil and strain, drink twice a day.",Bitter taste,18+ years,Root sensitivity,Vegan,
+Liver Disease (Hepatitis),Aloe Vera & Turmeric Mix,"Aloe gel, turmeric powder",Mix and take 1 tsp on empty stomach.,Loose stools,18+ years,Latex allergy,Vegetarian,
+Liver Disease (Hepatitis),Papaya Leaf Juice,Papaya leaves,"Crush and extract juice, 2 tsp/day.",Bitter taste,12+ years,Latex allergy,Vegan,
+Kidney Disease,Punarnava Decoction,"Punarnava root, water","Boil in water, drink twice daily.",May increase urination,12+ years,Root allergy,Vegetarian,
+Kidney Disease,Barley Water,"Barley seeds, water","Boil seeds, strain, drink throughout day.",None,1+ years,Gluten allergy,Vegan,
+Kidney Disease,Gokshura Tea,"Gokshura root, water","Boil root in water, strain, drink warm.",Slight dehydration,12+ years,None,Vegan,
+Kidney Disease,Coriander Infusion,"Coriander seeds, water","Soak overnight, strain and drink in morning.",None,1+ years,Seed sensitivity,Vegan,
+Kidney Disease,Aloe-Coconut Drink,"Aloe vera gel, coconut water",Blend and drink ½ glass daily.,Loose motion,5+ years,Latex allergy,Vegetarian,
+Depression,Brahmi Tea,"Brahmi leaves, water","Boil leaves, sip warm tea twice daily.",Drowsiness,12+ years,Leaf allergy,Vegetarian,
+Depression,Ashwagandha Powder Mix,"Ashwagandha, warm milk",Mix and consume at night.,Sedative effect,12+ year,Dairy allergy,Vegetarian,
+Depression,Jatamansi Decoction,"Jatamansi root, water",Boil and drink ½ cup daily.,Sleepiness,12+ years,Root allergy,Vegan,
+Depression,Shankhpushpi Syrup,"Shankhpushpi, water, jaggery","Boil, strain, add jaggery. Take 1 tsp/day.",None,5+ years,None,Vegetarian,
+Depression,Saffron Milk,"Saffron, milk",Add a few strands to warm milk. Drink before bed.,"Expensive, rare allergy",5+ years,Dairy allergy,Vegetarian,
+Anxiety Disorders,Brahmi-Ghee Tonic,"Brahmi, ghee, sugar","Warm and mix ingredients, take 1 tsp twice a day.",Drowsiness,12+ years,Dairy allergy,Vegetarian,
+Anxiety Disorders,Chamomile-Tulsi Tea,"Chamomile, Tulsi leaves","Boil in water, strain and sip.",Drowsiness,5+ years,Flower allergy,Vegetarian,
+Anxiety Disorders,Jatamansi Oil Massage,Jatamansi oil,Apply on scalp before bed.,Oily hair,8+ years,None,Vegetarian,
+Anxiety Disorders,Ashwagandha Capsules,Ashwagandha extract,Take 1 capsule with warm water.,Drowsiness,18+ years,None,Vegan,
+Anxiety Disorders,Tagar Root Powder,"Tagar powder, warm milk",Mix ½ tsp powder in milk at bedtime.,Dizziness,12+ years,Dairy allergy,Vegetarian,
+Eczema/Dermatitis,Neem Paste,"Neem leaves, water","Grind to paste, apply on affected skin.",Dryness,5+ years,Neem allergy,Vegan,
+Eczema/Dermatitis,Coconut-Turmeric Oil,"Coconut oil, turmeric","Warm mix, apply externally.",Yellow staining,5+ years,Coconut allergy,Vegetarian,
+Eczema/Dermatitis,Aloe Vera Gel,Fresh aloe vera,Apply directly on skin twice daily.,Cool sensation,5+ years,Latex allergy,Vegetarian,
+Eczema/Dermatitis,Manjistha Decoction,"Manjistha root, water",Boil and apply decoction on skin.,Skin dryness,12+ years,None,Vegetarian,
+Eczema/Dermatitis,Sandalwood Paste,"Sandalwood powder, rose water",Mix and apply to affected area.,Temporary cooling,5+ years,Fragrance sensitivity,Vegetarian,
+Lupus,Guduchi Juice,Guduchi stem,"Extract juice, consume 2 tsp daily.",Bitter taste,12+ years,None,Vegetarian,
+Lupus,Aloe Vera & Amla Mix,"Aloe gel, amla juice","Mix equal parts, take on empty stomach.",Mild laxative effect,5+ years,Latex allergy,Vegetarian,
+Lupus,Turmeric-Ginger Water,"Turmeric, ginger, water",Boil and drink ½ cup twice daily.,Heat in body,5+ years,Spice allergy,Vegetarian,
+Lupus,Ashwagandha Tea,"Ashwagandha root, water","Boil root, strain and drink warm.",Drowsiness,12+ years,Root sensitivity,Vegetarian,
+Lupus,Triphala Churna,"Triphala powder, water","Mix 1 tsp in warm water, take at night.",Laxative effect,10+ years,None,Vegan,
+Rheumatoid Arthritis,Castor Oil Massage,Castor oil,Warm and massage joints before bed.,Skin sensitivity,5+ years,Oil sensitivity,Vegetarian,
+Rheumatoid Arthritis,Garlic-Ghee Mix,"Garlic cloves, ghee","Sauté garlic in ghee, take 1 tsp daily.",Body heat,12+ years,Garlic allergy,Vegetarian,
+Rheumatoid Arthritis,Shallaki Capsules,Boswellia extract,1 capsule daily with water.,None,18+ years,Tree resin allergy,Vegetarian,
+Rheumatoid Arthritis,Methi-Haldi Paste,"Fenugreek seeds, turmeric","Soak and grind, apply as paste.",Temporary redness,12+ years,Spice allergy,Vegan,
+Rheumatoid Arthritis,Nirgundi Oil Massage,"Nirgundi leaves, oil",Heat and apply to joints.,Mild irritation,12+ years,Leaf allergy,Vegan,
+Chikungunya,Papaya Leaf Extract,Papaya leaves,"Crush and strain, drink 1 tsp twice daily.",Bitter taste,12+ years,Latex allergy,Vegetarian,
+Chikungunya,Giloy Juice,Giloy stem,"Boil or extract juice, drink daily.",None,12+ years,None,Vegetarian,
+Chikungunya,Turmeric Milk,"Turmeric, milk","Boil turmeric in milk, drink warm.",May heat body,5+ years,Dairy allergy,Vegetarian,
+Chikungunya,Holy Basil Tea,"Tulsi leaves, water","Boil leaves in water, sip warm.",None,5+ years,Pollen allergy,Vegetarian,
+Chikungunya,Neem-Coconut Oil,"Neem, coconut oil",Apply to joints for pain relief.,Mild rash,5+ years,Coconut allergy,Vegetarian,
+Dengue,Papaya Leaf Juice,Papaya leaves,"Crush and strain, take 2 tsp twice daily.",Bitter taste,12+ years,Latex allergy,Vegetarian,
+Dengue,Giloy-Tulsi Brew,"Giloy, Tulsi, water","Boil stems and leaves, drink warm.",None,12+ years,Leaf sensitivity,Vegetarian,
+Dengue,Goat Milk & Turmeric,"Goat milk, turmeric",Mix and drink 1 cup daily.,Lactose intolerance,5+ years,Dairy allergy,Vegetarian,
+Dengue,Wheatgrass Juice,Fresh wheatgrass,Extract and drink 30ml daily.,Nausea,5+ years,Grass allergy,Vegan,
+Dengue,Neem-Basil Tea,"Neem, basil, water","Boil leaves, strain, sip twice a day.",Bitter taste,10+ years,Pollen allergy,Vegetarian,
+Malaria,Chirayata Decoction,"Chirayata herb, water","Boil 1 tsp in water, drink before meals.",Very bitter,12+ years,None,Vegetarian,
+Malaria,Kalmegh Tea,"Kalmegh leaves, water","Boil leaves, drink ½ cup daily.",Bitter taste,12+ years,Leaf allergy,Vegan,
+Malaria,Tulsi-Ginger Concoction,"Tulsi, ginger, water","Boil and strain, drink warm.",Heat in body,5+ years,Spice/pollen allergy,Vegetarian,
+Malaria,Amla Juice,Fresh Amla,Drink 30ml daily on empty stomach.,None,5+ years,None,Vegetarian,
+Malaria,Fenugreek Water,"Fenugreek seeds, water","Soak seeds overnight, strain and drink.",Slight bitterness,10+ years,None,Vegan,
+Sleep Apnea,Ashwagandha Milk,"Ashwagandha, milk",Mix and drink before sleep.,Sedative effect,12+ years,Dairy allergy,Vegetarian,
+Sleep Apnea,Nutmeg Powder,"Nutmeg, warm milk","Add pinch to milk, consume at bedtime.",Excess can cause hallucinations,18+ years,Nut allergy,Vegetarian,
+Sleep Apnea,Tagar Tea,"Tagar root, water","Boil root, strain and sip.",Drowsiness,12+ years,Root allergy,Vegetarian,
+Sleep Apnea,Sesame Oil Nasya,Sesame oil,"Warm slightly, apply 2 drops per nostril before bed.",Mild irritation,18+ years,Seed allergy,Vegan,
+Sleep Apnea,Brahmi Oil Head Massage,Brahmi oil,Apply to scalp before sleep.,Oily hair,5+ years,Herb sensitivity,Vegan,
+Sarcoidosis,Turmeric-Ginger Mix,"Turmeric, ginger, honey",Mix and consume ½ tsp daily.,Heat in body,5+ years,Spice allergy,Vegetarian,
+Sarcoidosis,Guduchi Decoction,"Guduchi stem, water",Boil and drink twice daily.,None,12+ years,None,Vegetarian,
+Sarcoidosis,Triphala Churna,"Triphala, warm water",Take 1 tsp at bedtime.,Mild laxative,10+ years,None,Vegetarian,
+Sarcoidosis,Amla & Aloe Vera Mix,"Amla, aloe vera","Mix equal parts, drink on empty stomach.",Loose stools,15+ years,Latex allergy,Vegetarian,
+Sarcoidosis,Licorice Infusion,"Licorice root, water","Boil, strain, and drink ½ cup.",High BP if overused,10+ years,Root allergy,Vegetarian,
+Carcinoid Syndrome,Turmeric Decoction,"Turmeric, water, pepper",Boil and sip 1 cup daily.,Heat in body,5+ years,Spice allergy,Vegetarian,
+Carcinoid Syndrome,Neem & Giloy Mix,"Neem leaves, Giloy","Extract juice, consume daily.",Bitter taste,12+ years,None,Vegan,
+Carcinoid Syndrome,Ashwagandha Capsules,Ashwagandha extract,1 capsule daily with water.,Drowsiness,18+ years,Root allergy,Vegetarian,
+Carcinoid Syndrome,Amla-Tulsi Juice,"Amla, tulsi, water","Blend and strain, drink ½ glass daily.",Slight acidity,5+ years,Pollen allergy,Vegetarian,
+Carcinoid Syndrome,Aloe Vera Drink,"Aloe vera gel, water",Mix and consume 30 ml daily.,Laxative effect,10+ years,Latex allergy,Vegetarian,
+Fibromyalgia,Ashwagandha Tea,"Ashwagandha root, water","Boil root in water, sip twice daily.",Drowsiness,12+ years,Root allergy,Vegetarian,
+Fibromyalgia,Ginger-Turmeric Paste,"Ginger, turmeric, ghee",Mix and consume 1 tsp daily.,Heat in body,5+ years,Dairy/spice allergy,Vegetarian,
+Fibromyalgia,Brahmi Oil Massage,Brahmi oil,Warm and massage affected areas.,Oily skin,18+ years,Herbal sensitivity,Vegetarian,
+Fibromyalgia,Guggulu Capsules,Guggulu extract,1 capsule twice daily.,None,18+ years,Resin allergy,Vegetarian,
+Fibromyalgia,Triphala Water,"Triphala powder, water","Soak overnight, drink in morning.",Mild laxative,10+ years,None,Vegan,
+Guillain-Barré Syndrome,Ashwagandha Powder,"Ashwagandha, warm milk",Mix and consume at night.,Drowsiness,12+ years,Dairy/root allergy,Vegetarian,
+Guillain-Barré Syndrome,Turmeric Milk,"Turmeric, milk",Boil turmeric in milk and drink.,May heat body,5+ years,Dairy/spice allergy,Vegetarian,
+Guillain-Barré Syndrome,Brahmi Capsules,Brahmi extract,1 capsule daily,None,12+ years,None,Vegetarian,
+Guillain-Barré Syndrome,Giloy Juice,Giloy stem,"Extract juice, consume 30 ml daily.",None,12+ years,None,Vegetarian,
+Guillain-Barré Syndrome,Garlic Oil Massage,"Garlic, sesame oil",Heat and massage affected areas.,Skin irritation,5 + years,Garlic allergy,Vegetarian,
+Multiple Sclerosis,Mucuna Pruriens Powder,"Mucuna powder, warm water",Mix ½ tsp in water daily.,None,18+ years,Legume allergy,Vegetarian,
+Multiple Sclerosis,Brahmi Syrup,"Brahmi, jaggery, water","Prepare syrup, take 1 tsp/day.",Slight drowsiness,5+ years,Sugar sensitivity,Vegetarian,
+Multiple Sclerosis,Guduchi Tea,"Guduchi, water","Boil and strain, drink warm.",Bitter taste,12+ years,None,Vegetarian,
+Multiple Sclerosis,Amla Juice,Amla fruit,Drink 30 ml on empty stomach.,None,1+ years,None,Vegetarian,
+Multiple Sclerosis,Ashwagandha Capsules,Ashwagandha extract,Take 1 capsule with water.,Drowsiness,18+ years,Root allergy,Vegetarian,
+Hashimoto's Thyroiditis,Kanchanar Guggulu,"Kanchanar bark, guggulu",Take 1 tablet twice daily.,None,18+ years,Resin allergy,Vegetarian,
+Hashimoto's Thyroiditis,Triphala Powder,"Triphala, warm water",Take 1 tsp at night.,Laxative effect,10+ years,None,Vegetarian,
+Hashimoto's Thyroiditis,Coconut Oil in Diet,Cold-pressed coconut oil,Use in cooking daily.,High calorie,1+ years,Coconut allergy,Vegetarian,
+Hashimoto's Thyroiditis,Ashwagandha Tea,Ashwagandha root,Boil and drink warm.,Sedative effect,12+ years,Root allergy,Vegan,
+Hashimoto's Thyroiditis,Amla-Turmeric Mix,"Amla, turmeric",Mix and consume 1 tsp daily.,Heat in body,8+ years,Spice allergy,Vegetarian,
+Chronic Fatigue Syndrome,Shatavari Milk,"Shatavari powder, milk",Boil and drink nightly.,Hormonal effects,12+ years,Dairy allergy,Vegetarian,
+Chronic Fatigue Syndrome,Ashwagandha Capsules,Ashwagandha extract,1 capsule with warm water.,Drowsiness,18+ years,Root allergy,Vegetarian,
+Chronic Fatigue Syndrome,Licorice Tea,"Licorice root, water",Boil and sip once daily.,Can raise BP,8+ years,Root allergy,Vegan,
+Chronic Fatigue Syndrome,Ghee-Honey Mix,"Pure ghee, raw honey","Mix equal parts, take 1 tsp daily.",High calorie,5+ years,Dairy/honey allergy,Vegetarian,
+Chronic Fatigue Syndrome,Amla Juice,"Amla, water",Extract and drink 30 ml daily.,None,5+ years,None,Vegetarian,
+Lyme Disease,Giloy Juice,Giloy stem,"Crush stem, extract juice, drink 30ml daily.",Bitter taste,12+ years,None,Vegetarian,
+Lyme Disease,Turmeric-Honey Mix,"Turmeric powder, honey",Mix and consume 1 tsp twice a day.,Heat in body,5+ years,Spice allergy,Vegetarian,
+Lyme Disease,Neem Leaves Decoction,"Neem leaves, water",Boil and drink once daily.,Bitter,12+ years,Neem allergy,Vegetarian,
+Lyme Disease,Amla-Ginger Tonic,"Amla juice, ginger juice",Mix and drink 20ml once daily.,Acidity,8+ years,Spice sensitivity,Vegetarian,
+Lyme Disease,Ashwagandha Capsules,Ashwagandha extract,Take 1 capsule with water daily.,Drowsiness,18+ years,Root allergy,Vegetarian,
+Rocky Mountain Spotted Fever,Tulsi-Ginger Tea,"Tulsi leaves, ginger",Boil and sip twice daily.,Heat in body,5+ years,Spice/pollen allergy,Vegetarian,
+Rocky Mountain Spotted Fever,Amla Juice,Amla,Extract and drink 30ml daily.,None,8+ years,None,Vegetarian,
+Rocky Mountain Spotted Fever,Neem-Basil Paste,"Neem, basil leaves","Make paste, apply to rashes.",Skin irritation,5+ years,Leaf allergy,Vegan,
+Rocky Mountain Spotted Fever,Giloy Decoction,"Giloy, water",Boil and drink once daily.,None,12+ years,None,Vegetarian,
+Rocky Mountain Spotted Fever,Wheatgrass Juice,Fresh wheatgrass,Extract and drink 30ml daily.,Nausea,10+ years,Grass allergy,Vegan,
+Chronic Hepatitis,Bhumyamalaki Juice,Bhumyamalaki plant,Extract and drink 20ml daily.,Bitter,12+ years,None,Vegan,
+Chronic Hepatitis,Turmeric Milk,"Turmeric, milk",Mix and drink daily before bed.,May heat body,5+ years,Dairy/spice allergy,Vegetarian,
+Chronic Hepatitis,Amla-Tulsi Mix,"Amla, tulsi",Blend and drink on empty stomach.,None,5+ years,Pollen allergy,Vegetarian,
+Chronic Hepatitis,Kutki Powder,"Kutki herb, water","Mix ½ tsp in warm water, take daily.",Very bitter,12+ years,Herb allergy,Vegan,
+Chronic Hepatitis,Aloe Vera Juice,Fresh aloe vera,Drink 30ml daily.,Laxative effect,10+ years,Latex allergy,Vegetarian,
+Cytomegalovirus Infection,Tulsi-Ginger Water,"Tulsi, ginger, water",Boil and sip 2x/day.,Heat in body,8+ years,Pollen/spice allergy,Vegetarian,
+Cytomegalovirus Infection,Amla Juice,Fresh Amla,Drink 30ml daily.,None,5+ years,None,Vegetarian,
+Cytomegalovirus Infection,Neem-Giloy Brew,"Neem, giloy","Boil, strain, and drink warm.",Bitter taste,12+ years,Neem allergy,Vegetarian,
+Cytomegalovirus Infection,Licorice Tea,"Licorice root, water",Boil and drink once a day.,May raise BP,8+ years,Root allergy,Vegetarian,
+Cytomegalovirus Infection,Ashwagandha Capsules,Ashwagandha extract,1 capsule daily,Drowsiness,16+ years,Root allergy,Vegetarian,
+HIV/AIDS,Amla-Turmeric Tonic,"Amla, turmeric",Mix and consume 20ml daily.,None,5+ years,Spice allergy,Vegetarian,
+HIV/AIDS,Guduchi Decoction,Guduchi stem,Boil and drink ½ cup daily.,Bitter taste,10+ years,None,Vegetarian,
+HIV/AIDS,Triphala Powder,"Triphala, warm water",Take 1 tsp nightly.,Mild laxative,10+ years,None,Vegetarian,
+HIV/AIDS,Ashwagandha Milk,"Ashwagandha, milk",Mix and drink before bed.,Drowsiness,16+ years,Dairy/root allergy,Vegetarian,
+HIV/AIDS,Neem Capsules,Neem extract,1 capsule daily.,Bitter burps,16+ years,Neem allergy,Vegetarian,
+Mononucleosis,Tulsi-Ginger Tea,"Tulsi, ginger, water",Boil and sip twice daily.,May cause heat,8+ years,Pollen/spice allergy,Vegetarian,
+Mononucleosis,Amla Juice,Fresh amla,Drink 30ml on empty stomach.,None,10+ years,None,Vegetarian,
+Mononucleosis,Giloy Syrup,"Giloy, jaggery","Boil and reduce to syrup, 1 tsp twice daily.",None,5+ years,Sugar sensitivity,Vegetarian,
+Mononucleosis,Triphala Churna,"Triphala powder, water",Take 1 tsp before bed.,Laxative effect,10+ years,None,Vegetarian,
+Mononucleosis,Neem-Turmeric Paste,"Neem, turmeric, water",Apply paste to skin (if rashes).,Skin irritation,12+ years,Neem/spice allergy,Vegetarian,
+Chronic Kidney Disease,Punarnava Decoction,"Punarnava root, water",Boil and drink ½ cup daily.,Diuretic effect,12+ years,Root allergy,Vegan,
+Chronic Kidney Disease,Gokshura Powder,"Gokshura, warm water",Mix ½ tsp in warm water.,None,16+ years,Herbal allergy,Vegetarian,
+Chronic Kidney Disease,Barley Water,"Barley grains, water",Boil and sip throughout day.,May lower BP,5+ years,Gluten allergy,Vegetarian,
+Chronic Kidney Disease,Coriander Tea,"Coriander seeds, water",Boil and strain.,Diuretic effect,5+ years,Seed allergy,Vegetarian,
+Chronic Kidney Disease,Cucumber-Amla Juice,"Cucumber, amla",Blend and drink ½ cup daily.,Cooling effect,10+ years,None,Vegan,
+Systemic Lupus Erythematosus (Lupus),Ashwagandha Capsules,Ashwagandha extract,1 capsule daily.,Drowsiness,16+ years,Root allergy,Vegetarian,
+Systemic Lupus Erythematosus (Lupus),Turmeric Milk,"Turmeric, milk",Boil and consume nightly.,Heat in body,5+ years,Dairy/spice allergy,Vegetarian,
+Systemic Lupus Erythematosus (Lupus),Aloe Vera Juice,"Aloe gel, water",Drink 30ml daily.,Laxative effect,10+ years,Latex allergy,Vegetarian,
+Systemic Lupus Erythematosus (Lupus),Brahmi Tea,"Brahmi leaves, water",Boil and drink warm.,None,10+ years,Herb sensitivity,Vegan,
+Systemic Lupus Erythematosus (Lupus),Amla-Tulsi Juice,"Amla, tulsi","Blend, strain, and drink ½ cup.",None,8+ years,Pollen allergy,Vegetarian,
+Vasculitis,Triphala Water,"Triphala powder, water","Soak overnight, drink in morning.",Mild laxative,10+ years,None,Vegan,
+Vasculitis,Giloy Decoction,"Giloy, water",Boil and sip daily.,Bitter,8+ years,None,Vegetarian,
+Vasculitis,Neem Capsules,Neem extract,1 capsule daily.,Bitter burps,5+ years,Neem allergy,Vegetarian,
+Vasculitis,Turmeric-Honey Mix,"Turmeric, honey","Mix 1 tsp, take daily.",Heat in body,13+ years,Spice allergy,Vegan,
+Vasculitis,Brahmi Syrup,"Brahmi, jaggery",Prepare and take 1 tsp daily.,Sugar content,8+ years,Sugar sensitivity,Vegetarian,
+Myasthenia Gravis,Ashwagandha Powder,"Ashwagandha, warm milk",Mix and drink before bed.,Drowsiness,16+ years,Dairy/root allergy,Vegetarian,
+Myasthenia Gravis,Shatavari Capsules,Shatavari extract,1 capsule daily.,Hormonal effect,10+ years,None,Vegetarian,
+Myasthenia Gravis,Amla Juice,"Amla, water",Drink 30ml in morning.,None,10+ years,None,Vegetarian,
+Myasthenia Gravis,Brahmi Capsules,Brahmi extract,Take 1 capsule daily.,None,10+ years,None,Vegan,
+Myasthenia Gravis,Turmeric Tea,"Turmeric, water, pepper",Boil and sip warm.,Heat in body,16+ years,Spice allergy,Vegetarian,
+Pernicious Anemia,Beetroot-Amla Juice,"Beetroot, amla",Blend and drink ½ cup daily.,Red urine,8+ years,None,Vegetarian,
+Pernicious Anemia,Moringa Leaf Powder,"Moringa, water",Mix ½ tsp with warm water daily.,Slight laxative,8+ years,Leaf allergy,Vegetarian,
+Pernicious Anemia,Pomegranate Juice,Fresh pomegranate,Drink 1 glass daily.,None,8+ years,None,Vegan,
+Pernicious Anemia,Sesame Seeds,Black sesame seeds,"Soak overnight, eat next morning.",May cause constipation,10+ years,Seed allergy,Vegetarian,
+Pernicious Anemia,Ashwagandha Tea,"Ashwagandha root, water",Boil root and drink twice daily.,Drowsiness,12+ years,Root allergy,Vegan,
+Sjogren’s Syndrome,Triphala Wash,"Triphala, water",Use as mouth rinse and eye wash.,Slight irritation,12+ years,None,Vegetarian,
+Sjogren’s Syndrome,Licorice Tea,"Licorice root, water",Boil and sip daily.,May raise BP,16+ years,Root allergy,Vegan,
+Sjogren’s Syndrome,Aloe Vera Juice,Aloe vera gel,Drink 30ml daily on empty stomach.,Laxative effect,16+ years,Latex allergy,Vegetarian,
+Sjogren’s Syndrome,Coconut Oil Pulling,Cold-pressed coconut oil,Swish in mouth for 10 minutes daily.,Nausea (rare),5+ years,Coconut allergy,Vegetarian,
+Sjogren’s Syndrome,Amla Candy,"Amla, jaggery",Eat 2–3 pieces daily.,Sugar content,5+ years,Sugar allergy,Vegetarian,
+Chronic Fatigue Syndrome,Ashwagandha Capsules,Ashwagandha extract,1 capsule with warm water.,Drowsiness,8+ years,Root allergy,Vegetarian,
+Chronic Fatigue Syndrome,Shatavari Milk,"Shatavari, milk",Boil and drink before bed.,Hormonal effects,16+ years,Dairy/herb allergy,Vegetarian,
+Chronic Fatigue Syndrome,Brahmi Juice,"Brahmi leaves, water",Blend and sip daily.,Drowsiness,5 + years,Herb sensitivity,Vegetarian,
+Chronic Fatigue Syndrome,Ghee-Honey Mix,"Pure ghee, honey",Mix equal amounts and take 1 tsp daily.,High calorie,10 + years,Dairy/honey allergy,Vegan,
+Chronic Fatigue Syndrome,Guduchi Decoction,"Guduchi stem, water",Boil and drink once daily.,Bitter taste,8 + years,None,Vegetarian,
+Psoriasis,Neem Paste,"Fresh neem leaves, water","Grind into paste, apply to affected areas.",Dryness,6 + years,Neem allergy,Vegan,
+Psoriasis,Turmeric-Ghee Mix,"Turmeric, cow ghee",Mix and apply to skin patches.,Oily residue,5 + years,Dairy/spice allergy,Vegetarian,
+Psoriasis,Aloe Vera Gel,Fresh aloe gel,Apply twice daily to reduce inflammation.,Cooling effect,5 + years,Latex allergy,Vegetarian,
+Psoriasis,Triphala Wash,Triphala decoction,Rinse skin with cooled decoction.,Slight irritation,5 + years,None,Vegan,
+Psoriasis,Coconut Oil + Camphor,"Coconut oil, crushed camphor",Mix and apply overnight.,Strong smell,5 + years,Coconut allergy,Vegetarian,
+PCOS,Cinnamon Tea,"Cinnamon sticks, water",Boil and drink daily.,May lower blood sugar,12 + years,Spice allergy,Vegetarian,
+PCOS,Shatavari Powder,"Shatavari, milk",Mix 1 tsp in warm milk before bed.,Hormonal effects,12 + years,Dairy/herb allergy,Vegetarian,
+PCOS,Spearmint Tea,"Dried spearmint leaves, water",Brew and drink 2x daily.,Cooling,12 + years,None,Vegetarian,
+PCOS,Flaxseed Chutney,"Flaxseed, salt, cumin",Dry roast and grind into chutney.,Gas in some,5 + years,Seed allergy,Vegetarian,
+PCOS,Fenugreek Water,Soaked fenugreek seeds,Drink soaked water in morning.,Bitter taste,12 + years,Seed allergy,Vegan,
+Psoriatic Arthritis,Castor Oil Massage,Castor oil,Warm and massage joints gently.,Oily residue,8 + years,Castor allergy,Vegetarian,
+Psoriatic Arthritis,Shallaki Tablets,Boswellia extract,1 tablet twice daily.,Dry mouth,12 + years,Herb allergy,Vegetarian,
+Psoriatic Arthritis,Turmeric Milk,"Turmeric, milk",Drink before bed.,Heat in body,5 + years,Dairy/spice allergy,Vegetarian,
+Psoriatic Arthritis,Ginger Tea,"Fresh ginger, water",Boil and sip daily.,Heat in body,6 + years,Ginger allergy,Vegetarian,
+Psoriatic Arthritis,Garlic-Ghee Mix,"Garlic cloves, ghee",Roast garlic in ghee and consume 1 tsp.,May cause heartburn,12 + years,Dairy/garlic allergy,Vegetarian,
+GERD,Licorice Root Tea,"Licorice, water",Boil and drink after meals.,Raises BP,18 + years,Root allergy,Vegan,
+GERD,Aloe Vera Juice,"Fresh aloe gel, water",Drink 30ml before meals.,Laxative effect,10 + years,Latex allergy,Vegetarian,
+GERD,Fennel Seed Chew,Fennel seeds,Chew 1 tsp after meals.,None,8 + years,Seed allergy,Vegetarian,
+GERD,Cumin-Coriander Tea,"Cumin, coriander seeds","Boil, strain, and sip.",Diuretic,5 + years,Seed allergy,Vegan,
+GERD,Buttermilk with Rock Salt,"Buttermilk, rock salt, jeera",Blend and drink after lunch.,Cooling effect,5 + years,Dairy allergy,Vegetarian,
+Sciatica,Garlic Milk,"Garlic, milk","Boil garlic in milk, drink before bed.","Gas, heat",5 + years,Dairy/garlic allergy,Vegetarian,
+Sciatica,Nirgundi Oil,Nirgundi leaves,Prepare oil and massage affected area.,Strong aroma,7 + years,Leaf allergy,Vegan,
+Sciatica,Ginger-Turmeric Paste,"Ginger, turmeric, water",Apply to lower back.,Skin irritation,10 + years,Spice allergy,Vegetarian,
+Sciatica,Dashmool Decoction,Dashmool herbs,Boil and drink ½ cup daily.,None,15 + years,Herb allergy,Vegetarian,
+Sciatica,Castor Oil Compress,"Castor oil, cotton",Warm compress on pain site.,Oily skin,13 + years,Castor allergy,Vegetarian,
+Gout,Cherry Juice,Fresh cherries,Blend and drink ½ cup daily.,None,5 + years,None,Vegetarian,
+Gout,Ginger Tea,"Ginger, water",Boil and sip twice daily.,May cause heat,9 + years,Ginger allergy,Vegetarian,
+Gout,Epsom Salt Soak,"Epsom salt, warm water",Soak feet for 20 minutes.,Dry skin,10 + years,None,Vegetarian,
+Gout,Celery Seed Powder,Celery seeds,Take ½ tsp with water daily.,None,12 + years,Seed allergy,Vegan,
+Gout,Turmeric-Lemon Water,"Turmeric, lemon, water",Mix and drink warm.,Heat in body,5 + years,Citrus allergy,Vegetarian,
+Hepatitis B,Guduchi Juice,"Guduchi stem, water","Boil, strain, and drink.",Bitter taste,10 + years,Herb allergy,Vegan,
+Hepatitis B,Amla-Turmeric Mix,"Amla, turmeric","Mix with warm water, drink daily.",Cooling effect,10+ years,Spice allergy,Vegetarian,
+Hepatitis B,Dandelion Root Tea,"Dandelion root, water",Boil and drink twice daily.,Mild diuretic,12+ years,Root allergy,Vegan,
+Hepatitis B,Milk Thistle Capsules,Milk thistle extract,1 capsule twice daily.,None,18+ years,None,Vegetarian,
+Hepatitis B,Ashwagandha-Tulsi Mix,"Ashwagandha, tulsi","Powder and mix with water, take 1 tsp daily.",Drowsiness,15+ years,Root/herb allergy,Vegan,
+Shingles,Aloe Vera Gel,Aloe vera gel,Apply directly to affected area.,Cooling effect,8+ years,Latex allergy,Vegetarian,
+Shingles,Echinacea Tea,"Echinacea, water",Boil and drink twice daily.,None,10+ years,Herb allergy,Vegetarian,
+Shingles,Turmeric Paste,"Turmeric, water",Apply as a paste to rash.,Skin irritation,5+ years,Spice allergy,Vegetarian,
+Shingles,Apple Cider Vinegar Soak,"Apple cider vinegar, water",Soak a cloth and apply to rash.,Dry skin,10+ years,Vinegar allergy,Vegetarian,
+Shingles,Oatmeal Bath,"Oats, warm water",Soak in the bath for 20 minutes.,None,3+ years,None,Vegetarian,
+Bronchitis,Licorice Root Tea,"Licorice root, water",Boil and drink twice daily.,May raise BP,12+ years,Root allergy,Vegan,
+Bronchitis,Eucalyptus Oil Inhalation,"Eucalyptus oil, hot water",Inhale steam for 10 minutes.,May cause irritation,8+ years,Eucalyptus allergy,Vegetarian,
+Bronchitis,Honey-Ginger Tea,"Ginger, honey, water",Boil and sip warm.,May cause heat,5+ years,Honey allergy,Vegetarian,
+Bronchitis,Garlic-Turmeric Paste,"Garlic, turmeric",Apply paste to chest.,May cause burning,12+ years,Garlic/spice allergy,Vegan,
+Bronchitis,Tulsi-Honey Tea,"Tulsi leaves, honey, water",Boil and drink.,Cooling effect,5+ years,Honey allergy,Vegetarian,
+Insomnia,Ashwagandha Milk,"Ashwagandha, milk",Boil and drink before bed.,Drowsiness,15+ years,Dairy/root allergy,Vegetarian,
+Insomnia,Chamomile Tea,"Chamomile flowers, water",Brew and sip 30 minutes before sleep.,None,5+ years,Chamomile allergy,Vegan,
+Insomnia,Lavender Oil Diffuser,Lavender oil,Use in a diffuser before bed.,May cause headaches in sensitive individuals,3+ years,Lavender allergy,Vegetarian,
+Insomnia,Brahmi Tablets,Brahmi extract,1 tablet before bed.,None,18+ years,Herb allergy,Vegan,
+Insomnia,Jatamansi Powder,"Jatamansi, water",Take 1 tsp with warm water before sleep.,Mild sedative effect,12+ years,None,Vegetarian,
+Rheumatic Fever,Ashwagandha-Turmeric Paste,"Ashwagandha root, turmeric",Mix with water and apply to joints.,Mild irritation,15+ years,Root/spice allergy,Vegetarian,
+Rheumatic Fever,Ginger-Honey Tea,"Fresh ginger, honey, water",Boil and sip twice daily.,Heat in body,5+ years,Honey allergy,Vegetarian,
+Rheumatic Fever,Eucalyptus Oil Massage,"Eucalyptus oil, coconut oil",Massage affected joints.,Skin irritation,8+ years,Eucalyptus allergy,Vegetarian,
+Rheumatic Fever,Ghee-Turmeric Mix,"Ghee, turmeric",Mix 1 tsp and consume before meals.,Oily residue,5+ years,Dairy/spice allergy,Vegetarian,
+Rheumatic Fever,Clove-Tulsi Tea,"Clove, tulsi leaves",Boil and sip twice a day.,May cause heat,10+ years,Clove/pollen allergy,Vegetarian,
+Chronic Obstructive Pulmonary Disease (COPD),Ginger-Garlic Honey,"Ginger, garlic, honey",Blend and take 1 tsp daily.,Strong flavor,10+ years,Garlic/honey allergy,Vegetarian,
+Chronic Obstructive Pulmonary Disease (COPD),Tulsi-Cinnamon Tea,"Tulsi leaves, cinnamon",Boil and drink warm.,Cooling effect,8+ years,Cinnamon allergy,Vegetarian,
+Chronic Obstructive Pulmonary Disease (COPD),Licorice Root Syrup,"Licorice root, water","Boil and strain, then add honey.",Raises BP,12+ years,Root allergy,Vegan,
+Chronic Obstructive Pulmonary Disease (COPD),Eucalyptus Steam Inhalation,"Eucalyptus oil, water",Inhale steam for 10 minutes.,Skin irritation,8+ years,Eucalyptus allergy,Vegetarian,
+Chronic Obstructive Pulmonary Disease (COPD),Turmeric Milk,"Turmeric, milk",Mix and drink before bed.,May cause acidity,5+ years,Dairy/spice allergy,Vegetarian,
+Peptic Stricture,Ginger-Basil Paste,"Ginger, basil leaves",Grind into paste and apply to the chest.,May cause warmth,10+ years,Ginger/herb allergy,Vegetarian,
+Peptic Stricture,Licorice Decoction,"Licorice root, water",Boil and drink daily.,May raise BP,12+ years,Root allergy,Vegan,
+Peptic Stricture,Aloe Vera Gel,Aloe vera gel,Apply to affected areas for relief.,Cooling effect,8+ years,Latex allergy,Vegetarian,
+Peptic Stricture,Apple Cider Vinegar with Honey,"Apple cider vinegar, honey",Mix in warm water and drink.,May cause acidity,10+ years,Vinegar/honey allergy,Vegetarian,
+Peptic Stricture,Coconut Water,Fresh coconut water,Drink daily on an empty stomach.,None,3+ years,Coconut allergy,Vegetarian,
+Bell’s Palsy,Turmeric-Ghee Massage,"Turmeric, ghee",Mix and massage affected areas.,Oily residue,5+ years,Dairy/spice allergy,Vegetarian,
+Bell’s Palsy,Garlic-Aloe Vera Paste,"Garlic, aloe vera gel",Apply paste to affected areas.,Strong odor,8+ years,Garlic/allergy,Vegetarian,
+Bell’s Palsy,Ashwagandha Powder,"Ashwagandha powder, water",Take 1 tsp with water daily.,Drowsiness,15+ years,Root allergy,Vegetarian,
+Bell’s Palsy,Mustard Oil Massage,Mustard oil,Warm and massage affected facial area.,Strong odor,5+ years,Mustard allergy,Vegetarian,
+Bell’s Palsy,Ginger-Honey Tea,"Ginger, honey, water",Boil and drink twice daily.,Warmth in body,12+ years,Honey allergy,Vegetarian,
+Tinnitus,Ginkgo Biloba Tea,"Ginkgo Biloba, water",Boil and drink daily.,May cause dizziness,12+ years,None,Vegan,
+Tinnitus,Sesame Oil Drops,Sesame oil,Warm and drop 2-3 drops in the ear.,Mild discomfort,10+ years,Sesame allergy,Vegetarian,
+Tinnitus,Brahmi Capsules,Brahmi extract,Take 1 capsule daily.,None,18+ years,Herb allergy,Vegan,
+Tinnitus,Garlic Oil,"Garlic, olive oil","Infuse garlic in olive oil, drop 2 drops in ear.",Burning sensation,10+ years,Garlic allergy,Vegetarian,
+Tinnitus,Ashwagandha Powder,"Ashwagandha, water","Mix 1 tsp in warm water, take twice daily.",Drowsiness,15+ years,Root allergy,Vegetarian,
+Meniere’s Disease,Ginkgo Biloba Tablets,Ginkgo Biloba extract,Take 1 tablet twice daily.,May cause nausea,18+ years,None,Vegan,
+Meniere’s Disease,Ginger Tea,"Fresh ginger, water",Boil and sip twice daily.,Heat in body,8+ years,Ginger allergy,Vegetarian,
+Meniere’s Disease,Turmeric Milk,"Turmeric, milk",Mix with warm milk and drink before bed.,May cause acidity,5+ years,Dairy/spice allergy,Vegetarian,
+Meniere’s Disease,Ashwagandha-Tulsi Mix,"Ashwagandha, tulsi","Powder and mix, take 1 tsp daily.",Sedative effect,15+ years,Root/herb allergy,Vegetarian,
+Meniere’s Disease,Mustard Seed Oil Massage,Mustard seed oil,Massage on neck and ears.,Skin irritation,8+ years,Mustard allergy,Vegetarian,
+Multiple Myeloma,Neem Leaves Paste,Fresh neem leaves,Grind and apply to affected areas.,Skin irritation,10+ years,Neem allergy,Vegan,
+Multiple Myeloma,Turmeric-Honey Paste,"Turmeric, honey",Mix and apply to lesions.,None,5+ years,Honey/spice allergy,Vegetarian,
+Multiple Myeloma,Amla Juice,Fresh amla,Drink 30ml on empty stomach.,None,8+ years,None,Vegetarian,
+Multiple Myeloma,Ginger-Honey Tea,"Ginger, honey, water",Boil and drink twice daily.,Heat in body,7+ years,Honey allergy,Vegetarian,
+Multiple Myeloma,Triphala Churna,Triphala powder,Mix with warm water and drink.,Mild laxative,10+ years,None,Vegetarian,
+Celiac Disease,Papaya Enzyme,Fresh papaya,Eat 2-3 slices daily.,None,3+ years,None,Vegetarian,
+Celiac Disease,Aloe Vera Juice,"Aloe vera, water",Drink 30ml before meals.,Mild laxative,8+ years,Latex allergy,Vegetarian,
+Celiac Disease,Chamomile Tea,"Chamomile flowers, water",Brew and sip after meals.,None,5+ years,Chamomile allergy,Vegan,
+Celiac Disease,Ginger-Lemon Tea,"Ginger, lemon, water",Boil and sip daily.,Heat in body,7+ years,Citrus/ginger allergy,Vegetarian,
+Celiac Disease,Fennel Seed Tea,"Fennel seeds, water",Boil and drink.,Diuretic effect,5+ years,Seed allergy,Vegetarian,
+Sickle Cell Disease,Moringa Leaf Powder,Moringa leaves,Mix 1 tsp in water or smoothie.,None,10+ years,None,Vegetarian,
+Sickle Cell Disease,Turmeric-Ginger Tea,"Turmeric, ginger, water",Boil and drink.,Mild heat sensation,8+ years,Ginger/turmeric allergy,Vegetarian,
+Sickle Cell Disease,Amla Juice,Fresh amla,Drink daily on an empty stomach.,None,7+ years,None,Vegan,
+Sickle Cell Disease,Ashwagandha Milk,"Ashwagandha, milk",Boil and drink before bed.,Drowsiness,15+ years,Dairy/root allergy,Vegetarian,
+Sickle Cell Disease,Garlic-Honey Mix,"Garlic, honey","Crush garlic and mix with honey, take daily.",Strong odor,10+ years,Garlic/honey allergy,Vegetarian,
+Alzheimer’s Disease,Brahmi Powder,"Brahmi, water",Mix 1 tsp in warm water and drink.,Mild sedation,15+ years,Herb allergy,Vegan,
+Alzheimer’s Disease,Ashwagandha-Tulsi Mix,"Ashwagandha, tulsi","Powder and mix, take 1 tsp daily.",Drowsiness,15+ years,Root/herb allergy,Vegetarian,
+Alzheimer’s Disease,Ginkgo Biloba Tablets,Ginkgo Biloba extract,Take 1 tablet twice daily.,May cause dizziness,15+ years,None,Vegan,
+Alzheimer’s Disease,Turmeric Milk,"Turmeric, milk",Mix with warm milk and drink before bed.,May cause acidity,18+ years,Dairy/spice allergy,Vegetarian,
+Alzheimer’s Disease,Coconut Oil,Coconut oil,Consume 1 tbsp daily.,None,5+ years,Coconut allergy,Vegetarian,
